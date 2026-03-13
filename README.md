@@ -1,16 +1,21 @@
-## Hi there 👋
+# Привет! Я Алекс 👋 
 
-<!--
-**alex-hash986/alex-hash986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Solutions Architect & Vibe-Coder
 
-Here are some ideas to get you started:
+Я занимаюсь разработкой инструментов на базе искусственного интеллекта и автоматизацией бизнес-процессов на Python. Моя цель — создавать решения, которые экономят время и превращают сырые данные в полезные отчеты.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Мой технологический стек
+* **AI & LLM:** Prompt Engineering, OpenAI API (GPT-4o), Claude 3.5 Sonnet, Cursor.
+* **Backend:** Python (автоматизация, работа с API, генерация PDF документов).
+* **Tools:** Git, GitHub, .env security, Postman.
+
+## 🚀 Основной проект
+* [**AI Dialogue Analyzer**](https://github.com/alex-hash986/ai-dialogue-to-pdf-report) — Система для анализа бизнес-переписок. Нейросеть извлекает смыслы и формирует структурированный PDF-отчет для менеджмента.
+
+## 📫 Связаться со мной
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alex_autonocode)
+
+---
+*«Использую AI, чтобы делать сложное простым»*
